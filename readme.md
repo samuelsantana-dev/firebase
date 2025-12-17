@@ -66,9 +66,3 @@ Os dados são armazenados no **Cloud Firestore**, com regras de segurança que g
 FlutterFlow • Firebase Authentication • Cloud Firestore • Cloud Functions (Node.js)
 
 ---
-
-Se quiser, posso:
-
-* Adaptar esse README para **inglês**
-* Ajustar o texto para perfil **júnior ou pleno**
-* Revisar como se eu fosse o recrutador e sugerir melhorias finais
